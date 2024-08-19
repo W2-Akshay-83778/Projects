@@ -1,0 +1,39 @@
+/* CategoryManagement.css */
+
+.category-management {
+    padding: 20px;
+    margin-left: 250px; /* Adjust this if the sidebar width changes */
+}
+
+.category-management h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+.category-form {
+    margin-top: 20px;
+}
+
+.category-form input,
+.category-form button {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.category-form input {
+    width: calc(100% - 22px);
+}
+
+.category-form button {
+    background-color: #1abc9c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.category-form button:hover {
+    background-color: #16a085;
+}
