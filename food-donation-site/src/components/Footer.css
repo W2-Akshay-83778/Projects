@@ -1,0 +1,24 @@
+/* Footer.css */
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 1.5rem 0;
+  }
+  
+  .footer .list-inline-item {
+    margin-right: 1rem;
+  }
+  
+  .footer .list-inline-item a {
+    color: #ffffff;
+    font-size: 1.5rem;
+  }
+  
+  .footer .list-inline-item a:hover {
+    color: #adb5bd;
+  }
+  
+  .footer p {
+    margin-bottom: 0;
+  }
+  
